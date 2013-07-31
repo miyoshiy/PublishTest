@@ -1,5 +1,7 @@
 B<-2000
 
+# version2
+
 beta1.s<-numeric(B)
 set.seed(314159)
 residual<-r(dat1$x,dat1$y)
